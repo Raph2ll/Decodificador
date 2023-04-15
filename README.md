@@ -1,38 +1,101 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Decodificador
 
-## Getting Started
+Essa é aplicação uma que criptografa e descriptografa arquivos
 
-First, run the development server:
+# 🔖 Sumário
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+- [🚀 Começando](#começando)
+- [📋 Pré-requisitos](#pré-requisitos)
+- [🔧 Instalação](#instalação)
+- [🛠️ Construído com](#construído-com)
+- [🎥 Imagens](#imagens)
+- [📌 Versão](#versão)
+
+<div id='começando'/> 
+
+## 🚀 Começando
+
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+No terminal e de preferência na mesma pasta, clone o repositório:
+
+```sh
+git clone https://github.com/Raph2ll/Decodificador.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div id='pré-requisitos'/>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### 📋 Pré-requisitos
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Você ira precisar dessas tecnologias na sua máquina.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```sh
+[Javascript, NPM, Node.js, Git e GitHub]
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<div id='instalação'/>
 
-## Learn More
+### 🔧 Instalação
 
-To learn more about Next.js, take a look at the following resources:
+Após baixar o repositório você vai precisar.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Entrar na pasta do repositório clonado:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```sh
+cd Decodificador
+```
 
-## Deploy on Vercel
+2. Instale as dependências:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```sh
+npm install 
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. Inicie a aplicação:
+
+```sh
+npm run dev
+```
+
+4. Agora é só entrar no endereço do local host:
+
+```sh
+http://localhost:3000
+```
+
+## 🛠️ Construído com
+
+Ferramentas utilizadas para criar o projeto:
+
+- **Linguagem:** 
+  - [JavaScript](https://www.javascript.com)
+
+ - **Frontend**: 
+    - [React.Js](https://pt-br.reactjs.org) - Framework Web
+    - [Next.Js](https://nextjs.org) - Ferramenta de Desenvolvimento
+    - [Tailwind](https://tailwindcss.com) - Framework de Estilização CSS
+    - [Postcss](https://postcss.org) - Uma ferramenta para transformar CSS com JavaScript
+    - [Eslint](https://eslint.org) - Linter de manutenção de código
+
+<div id='imagens'/>
+
+## 🎥 Imagens
+
+### Imagens do projeto 
+
+<img alt="Project Gif" width="600" src="/public/images/localhost_3000___-Google-Chrome-2023-04-15-08-56-51.gif" >
+
+>  Gif do projeto funcionando.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtvFEYhVfZTjdJ5P24RGV21%2FAlura-Challenge---Desafio-1---L%25C3%25B3gica%3Fnode-id%3D0%253A1%26t%3DtFWf6HPc1SvKye9t-1" allowfullscreen></iframe>
+
+>  Figma do projeto.
+
+<div id='versão'/>
+
+## 📌 Versão
+
+Utilizei [NPM 9.5.0](https://www.npmjs.com) :package: para controle de versão das dependências.
+
+---
+⌨️ com ❤️ por [Raphael](https://github.com/Raph2ll)

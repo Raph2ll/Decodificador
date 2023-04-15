@@ -2,7 +2,7 @@
 
 Essa é uma aplicação que criptografa e descriptografa textos.
 
-Clique [aqui](https://raph2ll.github.io/Decodificador/?#) para ter acesso a aplicação
+Clique [aqui](https://raph2ll.github.io/Decodificador/?#) para ter acesso a aplicação.
 
 # 🔖 Sumário
 

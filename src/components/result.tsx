@@ -1,7 +1,7 @@
 import highQualityProducts from '../assets/highQualityProducts.svg'
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
-import { entry } from '../pages/types'
+import { entry } from '../types'
 const inter = Inter({ subsets: ['latin'] })
 
 

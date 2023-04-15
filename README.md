@@ -68,7 +68,7 @@ http://localhost:3000
 Ferramentas utilizadas para criar o projeto:
 
 - **Linguagem:** 
-  - [JavaScript](https://www.javascript.com)
+  - [Typescript](https://www.typescriptlang.org)
 
  - **Frontend**: 
     - [React.Js](https://pt-br.reactjs.org) - Framework Web

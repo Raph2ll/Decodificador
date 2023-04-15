@@ -4,6 +4,10 @@
 
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: light
+  background: #F3F5FC
+}
+
+textarea {
+  overflow: auto;
+  outline: none;
 }

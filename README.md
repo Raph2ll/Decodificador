@@ -87,9 +87,9 @@ Ferramentas utilizadas para criar o projeto:
 
 >  Gif do projeto funcionando.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtvFEYhVfZTjdJ5P24RGV21%2FAlura-Challenge---Desafio-1---L%25C3%25B3gica%3Fnode-id%3D0%253A1%26t%3DtFWf6HPc1SvKye9t-1" allowfullscreen></iframe>
+<img alt="Figma" width="600" src="/public/images/figma.png" >
 
->  Figma do projeto.
+>  [Figma do projeto](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21?embed_host=share&kind=&node-id=0%3A1&t=tFWf6HPc1SvKye9t-1&viewer=1).
 
 <div id='versão'/>
 

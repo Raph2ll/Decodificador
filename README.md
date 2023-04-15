@@ -1,6 +1,6 @@
 # Decodificador
 
-Essa é aplicação uma que criptografa e descriptografa arquivos
+Essa é uma aplicação que criptografa e descriptografa textos.
 
 # 🔖 Sumário
 

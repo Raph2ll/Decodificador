@@ -41,7 +41,7 @@ export default function Home() {
           height={48}
         />
       </div>
-      <div className="pt-44 md:pl-60 min-[375px]:pl-10 pl-4 md:pr-10 min-[375px]:pr-10 pr-4 md:w-[920px] w-[660]">
+      <div className="pt-44 md:pl-60 min-[420px]:pl-10 pl-4 md:pr-10 min-[375px]:pr-10 pr-4 md:w-[920px] w-[660]">
         <textarea
           id="message"
           className={`${inter.className} font-normal text-2xl  w-full h-[192px] placeholder-dark-blue-300 text-dark-blue-300 bg-light-blue-200 rounded-lg border-0 border-light-blue-200 focus:ring-0 focus:border-0 resize-none`}
@@ -56,7 +56,7 @@ export default function Home() {
               width={16}
               height={16}
             /> Apenas letras minúsculas e sem acento.</p>
-          <div className='sm:flex min-[375px]:flex block gap-6 pt-4 gap-x-'>
+          <div className='min-[420px]:flex block gap-6 pt-4 gap-x-'>
             <button
               type="submit"
               className={`${inter.className} font-normal block text-sm py-6 px-6 mb-6 w-[328px] h-[67px] text-[#FFFF] bg-dark-blue-300 hover:bg-dark-blue-400  focus:ring-4 focus:outline-none rounded-3xl text-center `}

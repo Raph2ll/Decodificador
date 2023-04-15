@@ -77,22 +77,6 @@ export default function Home() {
       <Result isOpen={open}>
         {data}
       </Result>
-      {/*<div className='flex flex-col items-center justify-center bg-[#FFFF] md:w-[400px] md:h-[700px] w-auto h-auto mt-10 md:ml-20 min-[375px]:ml-10 ml-4 md:mr-0 sm:mr-10 mr-4 md:mb-0 mb-20 rounded-[34px] shadow-md'>
-        <div className='md:block hidden'>
-          <Image
-            src={highQualityProducts}
-            alt="Banner of high quality products"
-            width={336}
-            height={304}
-          />
-        </div>
-        <h1 className={`${inter.className} font-bold text-2xl text-center text-gray-500 px-8 pt-8 pb-4`}>
-          Nenhuma mensagem encontrada
-        </h1>
-        <p className={`${inter.className} font-normal text-base text-center px-8 pb-8`}>
-          Digite um texto que você deseja criptografar ou descriptografar.
-        </p>
-  </div>*/}
     </form >
   )
 }
